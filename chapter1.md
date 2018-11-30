@@ -68,3 +68,35 @@ Answer 1.
 2. 2 is wrong
 3. 3 is wrong
 4. 4 is wrong
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise
+key: 517e21c30f
+xp: 50
+```
+
+Multiple choice with code test. What will the following print?
+
+`print('The number %d' % 1)`
+
+`@possible_answers`
+1. The number1
+2. [The number 1]
+3. The number %1
+
+`@hint`
+Try it in console...
+
+`@pre_exercise_code`
+```{python}
+
+```
+
+`@sct`
+```{python}
+
+```
