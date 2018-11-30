@@ -41,3 +41,30 @@ print('hi, my name is DataCamp')
 ```{python}
 Ex().has_output(r'[H|h]i,\s+my name is \w+')
 ```
+
+---
+
+## Multiple choice test
+
+```yaml
+type: PureMultipleChoiceExercise
+key: f65d341d52
+xp: 50
+```
+
+Mark answer 1.
+
+`@hint`
+Answer 1.
+
+`@possible_answers`
+1. [1]
+2. 2
+3. 3
+4. 4
+
+`@feedback`
+1. Correct
+2. 2 is wrong
+3. 3 is wrong
+4. 4 is wrong
